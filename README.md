@@ -12,4 +12,4 @@
 
 1. Main Insight: Profitability vs Risk
 
-<img src="/Users/kartikamusle/Desktop/profitability-vs-risk.png" alt="Form Input UI" width="700"/>
+<img src="[/Users/kartikamusle/Desktop/profitability-vs-risk.png](https://github.com/kartika28-ui/ds_kartika_musle_trading_analysis/blob/main/profitability-vs-risk.png)" alt="Form Input UI" width="700"/>
