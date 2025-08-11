@@ -11,3 +11,5 @@
 
 
 1. Main Insight: Profitability vs Risk
+
+<img src="https://github.com/kartika28-ui/Lung-Cancer-Detection-App/blob/main/lung-cancer-detection.jpeg?raw=true" alt="Form Input UI" width="700"/>
