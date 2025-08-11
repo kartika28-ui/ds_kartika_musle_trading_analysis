@@ -10,6 +10,10 @@
 
 
 
-1. Main Insight: Profitability vs Risk
+## 1. Main Insight: Profitability vs Risk
 
 <img src="https://github.com/kartika28-ui/ds_kartika_musle_trading_analysis/blob/main/profitability-vs-risk.png" alt="Form Input UI" width="700"/>
+
+Neutral markets offer safest returns (left), while Extreme Fear periods show high-risk/high-reward opportunities (right). Greed phases attract more trades but with diminishing returns.
+
+## 2. Behavioral Pattern: Trading Volume
